@@ -1,0 +1,6 @@
+.selectBoxContainer {
+    gap: 9px;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between;
+}

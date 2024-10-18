@@ -1,0 +1,51 @@
+{
+    "india_covid_data": {
+      "total_cases": 34672345,
+      "active_cases": 125234,
+      "recovered": 34100321,
+      "deaths": 467890,
+      "states": [
+        {
+          "state": "Maharashtra",
+          "total_cases": 7202234,
+          "active_cases": 13456,
+          "recovered": 7010032,
+          "deaths": 58746,
+          "coordinates": { "latitude": 19.7515, "longitude": 75.7139 }
+        },
+        {
+          "state": "Kerala",
+          "total_cases": 5634532,
+          "active_cases": 15678,
+          "recovered": 5528903,
+          "deaths": 45051,
+          "coordinates": { "latitude": 10.8505, "longitude": 76.2711 }
+        },
+        {
+          "state": "Karnataka",
+          "total_cases": 4567345,
+          "active_cases": 2345,
+          "recovered": 4502345,
+          "deaths": 42223,
+          "coordinates": { "latitude": 15.3173, "longitude": 75.7139 }
+        },
+        {
+          "state": "Tamil Nadu",
+          "total_cases": 4356789,
+          "active_cases": 6789,
+          "recovered": 4290123,
+          "deaths": 46233,
+          "coordinates": { "latitude": 11.1271, "longitude": 78.6569 }
+        },
+        {
+          "state": "Delhi",
+          "total_cases": 3124567,
+          "active_cases": 4567,
+          "recovered": 3061234,
+          "deaths": 32766,
+          "coordinates": { "latitude": 28.7041, "longitude": 77.1025 }
+        }
+      ]
+    }
+  }
+  
